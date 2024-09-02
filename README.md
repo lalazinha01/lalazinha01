@@ -1,5 +1,7 @@
 ## Amo açai
 
+![](https://media.tenor.com/Gz408T11T8gAAAAi/wiggle-cat-wiggle.gif)
+
 <!--
 **lalazinha01/lalazinha01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
